@@ -10,6 +10,7 @@ import UIKit
 import FirstFrameWork
 
 //ref: https://medium.com/onfido-tech/reusing-code-with-swift-frameworks-cf60f5fa288a
+// https://medium.com/kinandcartacreated/modular-ios-strangling-the-monolith-4a6843a28992
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
